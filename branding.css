@@ -1,6 +1,8 @@
 /*stylesheet.css*/
     
-
+html {
+    zoom: 1;
+}
 
 br{
         user-select: none;
