@@ -454,6 +454,6 @@ a{
         display: flex;
         
     }
-    h3 {
+    h3, b {
         padding-left: 20px;
     }
